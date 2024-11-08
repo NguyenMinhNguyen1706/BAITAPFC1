@@ -1,3 +1,5 @@
+// Exercise 4: Number Pyramid
+// Description: Write a program that generates a number pyramid of n rows. Each row should have increasing numbers from 1 up to the row number.
 import java.util.Scanner;
 public class Exercise4_NumberPyramid {
     public static void main(String[] args) {
