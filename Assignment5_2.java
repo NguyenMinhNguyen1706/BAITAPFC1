@@ -1,5 +1,6 @@
+// Exercise 2: Fibonacci Sequence
+// Write a program to print the first n elements of the Fibonacci sequence (with n input from the user).
 import java.util.Scanner;
-
 public class Exercise2_FibonacciSequence { 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
